@@ -1,0 +1,11 @@
+{
+ "app": "HexaVideoPlayer",
+ "version": "1.1.0",
+ "runtimeVersion": "33.4.11",
+ "file": "HexaVideoPlayer-1.1.0.hexavideoplayer-update",
+ "url": "https://raw.githubusercontent.com/phkdow/hexavideoplayer-updates/main/updates/HexaVideoPlayer-1.1.0.hexavideoplayer-update",
+ "page": "https://github.com/phkdow/hexavideoplayer-updates/",
+ "size": 202588,
+ "sha256": "8957efe6b10a00b28e7d4bf3f92a9003f84b4f866c74d3a2f9fb03f4db38d867",
+ "notes": "・名前を Hexa Video Player に変更（新しいアイコン）\n・自動アップデートに対応（新しい版が起動しないときは自動で元に戻ります）\n・Suzuki PDF Viewer 風のリボンメニュー、F11 / Ctrl+O などのショートカット\n・新規ウィンドウ、最近のファイル、ライブラリ、HWデコード切替、全画面、バージョン情報\n・動画ファイルをダブルクリックして開けるように（インストール時に登録）\n・X ログインの cookie 保存を修正"
+}
