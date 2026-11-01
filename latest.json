@@ -1,11 +1,11 @@
 {
  "app": "HexaVideoPlayer",
- "version": "1.1.1",
+ "version": "1.1.2",
  "runtimeVersion": "33.4.11",
- "file": "HexaVideoPlayer-1.1.1.hexavideoplayer-update",
- "url": "https://raw.githubusercontent.com/phkdow/hexavideoplayer-updates/main/updates/HexaVideoPlayer-1.1.1.hexavideoplayer-update",
+ "file": "HexaVideoPlayer-1.1.2.hexavideoplayer-update",
+ "url": "https://raw.githubusercontent.com/phkdow/hexavideoplayer-updates/main/updates/HexaVideoPlayer-1.1.2.hexavideoplayer-update",
  "page": "https://github.com/phkdow/hexavideoplayer-updates/",
- "size": 202588,
- "sha256": "fb38b507a3b9b3157809da77e31af167eca5e80ce03653b6d4357cd1fea6e322",
- "notes": "・自動アップデートの動作確認用（機能は 1.1.0 と同じ）"
+ "size": 210461,
+ "sha256": "371f0f87a2e48bec0287c6743417ff3acba2d5271f377dbdd685b2af5054ae0e",
+ "notes": "・再生中は真ん中のボタンが ⏸ に（マウスを乗せたときだけ表示）。ミュートボタンは 🔊／🔇 で状態を表示\n・動画をタイルいっぱいに表示（⤢／⛶ ボタンでタイルごとに全体表示へ切替）\n・下の操作ボタンはマウスを乗せたときだけ半透明で表示\n・更新履歴を見られるように（ヘルプ → 更新履歴）"
 }
